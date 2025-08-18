@@ -1,6 +1,6 @@
 # Top-Courses
 
-# Table of Contents
+## Table of Contents
 
 Overview
 
@@ -55,4 +55,5 @@ Filtered courses are displayed dynamically without the need to reload the entire
 ## 3. Interactive "Like" Button:
 
 Click the "Like" button on a course card to show a toast notification indicating whether the course has been liked or unliked.
+
 
