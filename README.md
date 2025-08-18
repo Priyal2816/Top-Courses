@@ -1,21 +1,57 @@
-📖 Overview
+# Top-Courses
 
-Top Courses Gold Theta is a modern web application that curates and presents the best courses across multiple domains. Whether you're a student, professional, or lifelong learner, this platform helps you discover high-quality learning resources to upskill and stay ahead in your field.
+# Table of Contents
 
-🚀 Key Features
+Overview
 
-Curated Top Courses: Only the highest-quality courses from verified providers.
+Features
 
-Intuitive UI/UX: Clean, responsive, and user-friendly design for seamless browsing.
+Preview
 
-Detailed Course Info: Check course duration, provider, category, and prerequisites.
+Technologies
 
-Mobile-Ready: Fully responsive layout for desktop, tablet, and mobile.
+Usage
 
-Quick Navigation: Easily switch between categories and pages with pagination.
 
-🛠 Technologies Used
+# Overview
 
-Frontend: React.js
-Styling: Tailwind CSS
-Deployment: Vercel
+"Top Courses" is a web application that showcases various courses with card-style layouts. Each course card contains an image, detailed course information, and a "Like" button. Users can filter courses by category using the navigation buttons at the top, and the filtered courses are displayed dynamically without page reloads.
+
+# Features
+
+# Course Cards:
+
+View a collection of course cards, each displaying an image and detailed course information.
+
+# Filter by Category:
+
+Filter courses by category (e.g., Development, Business, Design, Lifestyle) without the need for page reloads.
+
+# Interactive "Like" Button:
+
+Click the "Like" button on a course card to show a toast notification with "Course Liked" or "Course Unliked" messages.
+
+# Technologies
+
+React
+JavaScript
+CSS (styled with Tailwind CSS)
+React Toastify (for toast notifications)
+
+# Usage
+
+# 1. Course Cards Display:
+
+Open the web application to view a grid of course cards.
+
+Each card displays an image, detailed course information, and a "Like" button.
+
+# 2. Filtering Courses by Category:
+
+Click the navigation buttons at the top (e.g., "All," "Development," "Business," "Design," "Lifestyle") to filter courses by category.
+
+Filtered courses are displayed dynamically without the need to reload the entire page.
+
+# 3. Interactive "Like" Button:
+
+Click the "Like" button on a course card to show a toast notification indicating whether the course has been liked or unliked.
