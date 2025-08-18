@@ -19,15 +19,15 @@ Usage
 
 # Features
 
-# Course Cards:
+## Course Cards:
 
 View a collection of course cards, each displaying an image and detailed course information.
 
-# Filter by Category:
+## Filter by Category:
 
 Filter courses by category (e.g., Development, Business, Design, Lifestyle) without the need for page reloads.
 
-# Interactive "Like" Button:
+## Interactive "Like" Button:
 
 Click the "Like" button on a course card to show a toast notification with "Course Liked" or "Course Unliked" messages.
 
@@ -40,18 +40,19 @@ React Toastify (for toast notifications)
 
 # Usage
 
-# 1. Course Cards Display:
+## 1. Course Cards Display:
 
 Open the web application to view a grid of course cards.
 
 Each card displays an image, detailed course information, and a "Like" button.
 
-# 2. Filtering Courses by Category:
+## 2. Filtering Courses by Category:
 
 Click the navigation buttons at the top (e.g., "All," "Development," "Business," "Design," "Lifestyle") to filter courses by category.
 
 Filtered courses are displayed dynamically without the need to reload the entire page.
 
-# 3. Interactive "Like" Button:
+## 3. Interactive "Like" Button:
 
 Click the "Like" button on a course card to show a toast notification indicating whether the course has been liked or unliked.
+
